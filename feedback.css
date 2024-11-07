@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da;
+    background-image: url('fundo-app.png');       
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;   
+    color: #333;
+} */
+
+.imgFund{
+    position: fixed;
+    height: 620px;
+    width: 280px;
+}
+
+/* .feed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+
+/* .logo img{
+    margin-top: -25px; 
+    margin-left: -25px;          
+    width: 12em; 
+}
+
+.titulo{
+    font-family: 'Leckerli One', cursive;
+    font-weight: bold;
+    text-align: center;
+    background-color: #F4ECEC;
+    color: #d64777;
+    font-size: 1.5rem;
+    padding: 4px;
+    width: 8em;
+    border-radius: 20px;
+    margin-bottom: 30px; 
+    margin-left: 6em;
+}
+
+.desc{
+    margin-left: 5em;
+    white-space: pre-line;
+
+} */
